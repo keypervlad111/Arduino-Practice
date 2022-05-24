@@ -28,6 +28,6 @@ may23b - Touch on Matrix
 
 may23c - Scrolling text on matrix (Too late)
 
-may24a - Watch on Matrix
+may24a - Watch on Matrix // more light through declaration all pins
 
 and one retranslation for V i dont do this
