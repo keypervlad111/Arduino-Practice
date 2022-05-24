@@ -1,0 +1,41 @@
+Matrix:
+https://microcontrollerslab.com/led-dot-matrix-display-esp32-max7219/
+https://www.instructables.com/ESP32-LED-Matrix-Clock/
+https://www.youtube.com/watch?v=QwYTMfd4SOw&ab_channel=voidloopRobotech%26Automation
+https://www.youtube.com/watch?v=sTv450J8k9Q&ab_channel=BMonsterLaboratory
+Matrix watch:
+https://www.youtube.com/watch?v=Xj0NXzh0vXg&ab_channel=StechiezDIY
+(there a still a Matrix 8x8 is a homemade, enough just a found in search)
+Matrix scroll text: 
+https://www.youtube.com/watch?v=mvfh1pXTvN4&ab_channel=MYTECTUTOR
+
+Sensor temperature:
+https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/
+https://create.arduino.cc/projecthub/mafzal/temperature-monitoring-with-dht22-arduino-15b013
+https://www.youtube.com/watch?v=OoK4GDKT72k&ab_channel=ElektrowebSklepInternetowy
+https://randomnerdtutorials.com/complete-guide-for-dht11dht22-humidity-and-temperature-sensor-with-arduino/
+
+Display: 
+https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/
+https://github.com/codebendercc/arduino-library-files/tree/master/libraries // ?
+https://arduino-tutorials.net/public/img/course/16-st7920-dot-matrix/16-step-5.png
+
+new Display:
+https://github.com/olikraus/u8g2/blob/master/sys/arduino/u8g2_full_buffer/HelloWorld/HelloWorld.ino // ?
+https://www.instructables.com/ST7920-128X64-LCD-Display-to-ESP32/ 
+
+Sensor a V: 
+https://diyi0t.com/ina219-tutorial-for-arduino-and-esp/
+
+Touch sensor:
+https://www.youtube.com/watch?v=40tyJfvpcxw&ab_channel=RuiSantos
+
+Gyroscope:
+https://microcontrollerslab.com/esp32-mpu6050-accelerometer-gyroscope-temperature-arduino/
+https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
+https://www.youtube.com/watch?v=wTfSfhjhAU0&ab_channel=MichaelSchoeffler
+
+Motion Detection Sensor:
+https://electropeak.com/learn/interfacing-pir-sr602-infrared-motion-detector-sensor-with-arduino/
+https://randomnerdtutorials.com/esp32-pir-motion-sensor-interrupts-timers/
+https://forum.arduino.cc/t/motion-sensor-very-low-range-issue/702839
