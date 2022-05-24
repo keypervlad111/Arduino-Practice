@@ -35,6 +35,14 @@ https://microcontrollerslab.com/esp32-mpu6050-accelerometer-gyroscope-temperatur
 https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
 https://www.youtube.com/watch?v=wTfSfhjhAU0&ab_channel=MichaelSchoeffler
 
+Gas sensor: // mh mq sensor flying fish //fc-22 sbx arduino esp32
+https://www.youtube.com/watch?v=3tXRNusJhgs&ab_channel=pcbreflux
+https://diyi0t.com/mq2-gas-sensor-arduino-esp8266-esp32/
+https://blog.asksensors.com/air-quality-sensor-mq135-cloud-mqtt/
+https://pl.aliexpress.com/item/32946580697.html // explanation
+https://randomnerdtutorials.com/guide-for-mq-2-gas-smoke-sensor-with-arduino/ // ??
+https://www.rfwireless-world.com/ApplicationNotes/ESP32-interfacing-with-Gas-sensor.html // ??
+
 Motion Detection Sensor:
 https://electropeak.com/learn/interfacing-pir-sr602-infrared-motion-detector-sensor-with-arduino/
 https://randomnerdtutorials.com/esp32-pir-motion-sensor-interrupts-timers/
