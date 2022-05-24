@@ -30,4 +30,6 @@ may23c - Scrolling text on matrix (Too late)
 
 may24a - Watch on Matrix // more light through declaration all pins
 
+may24b - Gas sensor displayed on Matrix // MQ-7 / MQ135
+
 and one retranslation for V i dont do this
